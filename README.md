@@ -1,6 +1,6 @@
 # Ojasvi Yadav
 
-AI engineer in Bengaluru. I build tools for learning and for working with language models.
+AI engineer in Gurugram. I build tools for learning and for working with language models.
 
 - **The Learning Harness**: A harness for learning anything, for people who want to upskill or prepare for exams/interviews/courses. *Free for personal use, on-device*. It's in closed beta right now, I'm hoping to launch in the coming weeks. [learningharness.org](https://learningharness.org). Start with [how to learn with AI, properly](https://learningharness.org/learn-with-ai).
 
